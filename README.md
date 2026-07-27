@@ -125,4 +125,4 @@
 
 Aspiring Software Engineer
 
-GitHub: [@devdelorino](https://github.com/devdelorino)
+GitHub: [@denverdelorino](https://github.com/denverdelorino)
